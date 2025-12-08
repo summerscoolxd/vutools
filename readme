@@ -1,40 +1,95 @@
-# VUTOOLS
 
-A desktop toolkit packed with 60+ utilities for Roblox and Discord. Built because I got tired of juggling between different websites and tools.
 
-## What's Inside
+# 🛠️ VUTOOLS
 
-**Roblox Stuff**
-- Username checker and sniper
-- Group scanner (finds claimable groups)
-- Asset downloader
-- Game tracker with live stats
-- Profile lookup and friend checker
-- Avatar analyzer
+### The all-in-one toolkit for Roblox and Discord
 
-**Discord Tools**
-- 41 bot commands (moderation, fun stuff, utilities)
-- Webhook manager
-- Server lookup
-- User ID calculator
+*Stop switching between 20 different websites. Everything you need in one place.*
 
-**Trading**
-- Trade calculator
-- Limited item tracker
-- RAP checker
+[![Download](https://img.shields.io/badge/Download-Latest%20Release-00d9ff?style=for-the-badge)](../../releases)
+[![Version](https://img.shields.io/badge/Version-2.0.0-00d9ff?style=for-the-badge)](../../releases)
+[![License](https://img.shields.io/badge/License-MIT-00d9ff?style=for-the-badge)](LICENSE)
 
-**Other Features**
-- Analytics dashboard
-- Bulk import/export (JSON, CSV, TXT)
-- Multiple themes
-- Favorites system
+</div>
 
-## Download
+---
 
-Grab the latest release from the release page.
+## 🎯 What is this?
 
-Requires an activation key to use.
+VUTOOLS is a desktop app with 60+ tools for Roblox trading, Discord server management, and general utilities. No more browser tabs, no more bookmarks. Just open the app and get to work.
 
-## License
+## ⚡ Features
 
-MIT
+### 🎮 Roblox Tools
+```
+→ Username Checker & Sniper    → Group Scanner (find claimable groups)
+→ Asset Downloader             → Game Tracker (live player counts)
+→ Profile & Friend Lookup      → Avatar Analyzer
+```
+
+### 💬 Discord Integration
+```
+→ 41 Bot Commands              → Moderation (ban, kick, mute, clear)
+→ Server Management            → Fun Commands (8ball, meme, dice)
+→ Webhook Manager              → Server & User Lookup
+```
+
+### 💎 Trading Suite
+```
+→ Trade Calculator             → Limited Item Tracker
+→ RAP Checker                  → Value Analysis
+```
+
+### 📊 Utilities
+```
+→ Analytics Dashboard          → Bulk Import/Export (JSON/CSV/TXT)
+→ History Tracking             → Multiple Themes
+→ Favorites System             → Auto-Updates
+```
+
+## 📥 Installation
+
+1. Download `vutools Setup 2.0.0.exe` from [Releases](../../releases)
+2. Run the installer
+3. Enter your activation key
+4. Done
+
+> **Note:** Activation key required. Windows only.
+
+## 🎨 Screenshots
+
+*Clean interface. Dark theme. No clutter.*
+
+## 🔧 Built With
+
+- Electron
+- Discord.js
+- Roblox APIs
+- Socket.io
+
+## 📝 What's New in v2.0.0
+
+- 30+ new Discord bot commands
+- 5 new working tools (Group Scanner, Server Lookup, Asset Downloader, User ID Lookup, Game Tracker)
+- Improved UI and performance
+- Better error handling
+
+Check out the full [Release Notes](RELEASE-NOTES-v2.0.0.md)
+
+## 🤝 Contributing
+
+This is a personal project, but feel free to fork it and make it your own.
+
+## 📜 License
+
+MIT - do whatever you want with it
+
+---
+
+<div align="center">
+
+**Made for traders, by a trader**
+
+[Download](../../releases) • [Report Bug](../../issues) • [Request Feature](../../issues)
+
+</div>
