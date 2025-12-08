@@ -12,7 +12,7 @@
 If you discover a security vulnerability in VUTOOLS, please report it responsibly:
 
 1. **DO NOT** open a public issue
-2. Email the details to: [YOUR_EMAIL]
+2. Create a ticket in: https://discord.gg/wVBYvSkVgC
 3. Include:
    - Description of the vulnerability
    - Steps to reproduce
@@ -28,7 +28,6 @@ When using VUTOOLS:
 - Only download from official sources (this GitHub repository)
 - Keep your activation key private
 - Update to the latest version regularly
-- Don't share your installation with untrusted users
 - Report suspicious behavior immediately
 
 ## What We Do
@@ -39,3 +38,4 @@ When using VUTOOLS:
 - No data collection or tracking
 
 Thank you for helping keep VUTOOLS secure!
+
