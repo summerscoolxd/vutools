@@ -1,8 +1,6 @@
 # VUTOOLS - All-in-One Roblox & Discord Toolkit 2025 | Official GitHub
 
-Welcome to the **official VUTOOLS GitHub** – your trusted source for the most comprehensive Roblox and Discord utility toolkit in 2025. VUTOOLS empowers users to streamline their workflow with 60+ powerful tools, manage Discord servers with 41 bot commands, and dominate Roblox trading like never before.
-
-This powerful desktop application is widely known for its performance, reliability, and ease of use when properly installed from the official VUTOOLS GitHub. With a growing user base, active community, and constant updates, VUTOOLS is your gateway to a richer, more efficient experience.
+Welcome to the **official VUTOOLS GitHub** – your trusted source for the most comprehensive Roblox and Discord utility toolkit.
 
 [![Download VUTOOLS](https://img.shields.io/badge/DOWNLOAD%20VUTOOLS-CLICK%20HERE-ff0000?style=for-the-badge&logo=windows)](../../releases)
 [![Version](https://img.shields.io/badge/Version-2.0.0-00d9ff?style=for-the-badge)](../../releases)
@@ -11,7 +9,7 @@ This powerful desktop application is widely known for its performance, reliabili
 
 ---
 
-## 💪 Features
+## Features
 
 VUTOOLS is packed with robust functionality:
 
@@ -22,13 +20,9 @@ VUTOOLS is packed with robust functionality:
 • **Memory Optimization:** Uses minimal system resources to ensure smooth performance.  
 • **Automatic Updates:** Constant patching ensures compatibility with the latest versions.
 
-> Unlock advanced tools to manage your Roblox trading and Discord servers with full control and zero lag.
-
 ---
 
-## ⚡ Benefits
-
-Why do thousands trust VUTOOLS?
+## Benefits
 
 • ✅ **Safe execution** — verified by community  
 • ✅ **Stable on latest updates**  
@@ -41,7 +35,7 @@ You're not just downloading a tool — you're joining a powerful movement of cre
 
 ---
 
-## 🔧 How to Install
+## How to Install
 
 1. Click the big red **Download** button above.
 2. Run `vutools Setup 2.0.0.exe` from your Downloads folder.
@@ -49,7 +43,7 @@ You're not just downloading a tool — you're joining a powerful movement of cre
 4. Enter your activation key when prompted.
 5. Launch VUTOOLS and start using 60+ tools instantly!
 
-That's it! No complicated setup, no configuration files, just download and go.
+That's it! No complicated setup, no configuration files. just download and go.
 
 ---
 
@@ -90,19 +84,21 @@ Make sure your device meets the minimum requirements to enjoy stable execution. 
 - Game Tracker with live stats
 - Profile & Friend Lookup
 - Avatar Analyzer
+- And More!
 
 ### 💬 Discord Integration
 - 41 Bot Commands (moderation, fun, utilities)
 - Webhook Manager
 - Server & User Lookup
 - User ID Calculator
-- Announcement System
+- And More!
 
 ### 💎 Trading Suite
 - Trade Calculator
 - Limited Item Tracker
 - RAP Checker
 - Value Analysis
+- And More!
 
 ### 📊 Utilities
 - Analytics Dashboard
@@ -111,10 +107,11 @@ Make sure your device meets the minimum requirements to enjoy stable execution. 
 - Multiple Themes
 - Favorites System
 - Auto-Updates
+- And More!
 
 ---
 
-## 🚀 What's New in v2.0.0
+##  What's New in v2.0.0
 
 - ✨ 30+ new Discord bot commands
 - ✨ 5 new working tools (Group Scanner, Server Lookup, Asset Downloader, User ID Lookup, Game Tracker)
@@ -145,19 +142,15 @@ VUTOOLS is built with security in mind:
 - ✅ No malware or viruses
 - ✅ No data collection
 - ✅ No hidden charges
-- ✅ Open source code
-- ✅ Community verified
 - ✅ Regular security updates
 
 ---
 
-## 🤝 Community
+## Community
 
 Join thousands of users:
 
-- 💬 Discord Server - Get support and share tips
-- 🐛 [Report Issues](../../issues) - Help us improve
-- 💡 [Request Features](../../issues) - Tell us what you need
+- 💬 Discord Server - Get support and share tips (https://discord.gg/wVBYvSkVgC)
 - ⭐ Star this repo if you find it useful!
 
 ---
@@ -170,9 +163,8 @@ Join thousands of users:
 
 ---
 
-## 🔨 Built With
+## Built With
 
-- **Electron** - Desktop framework
 - **Discord.js** - Discord bot integration
 - **Node.js** - Backend runtime
 - **Roblox APIs** - Data fetching
@@ -180,7 +172,7 @@ Join thousands of users:
 
 ---
 
-## 📜 License
+## License
 
 MIT License - Free to use, modify, and distribute.
 
@@ -196,7 +188,7 @@ VUTOOLS is a third-party tool and is not affiliated with Roblox Corporation or D
 
 <div align="center">
 
-**Made for traders, by a trader**
+**Made with love by vuthea.**
 
 [Download](../../releases) • [Report Bug](../../issues) • [Request Feature](../../issues) • [Documentation](GETTING-STARTED.md)
 
@@ -205,3 +197,4 @@ VUTOOLS is a third-party tool and is not affiliated with Roblox Corporation or D
 ⭐ **Star this repo if you find it useful!** ⭐
 
 </div>
+
