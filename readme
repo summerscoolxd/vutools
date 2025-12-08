@@ -1,0 +1,40 @@
+# VUTOOLS
+
+A desktop toolkit packed with 60+ utilities for Roblox and Discord. Built because I got tired of juggling between different websites and tools.
+
+## What's Inside
+
+**Roblox Stuff**
+- Username checker and sniper
+- Group scanner (finds claimable groups)
+- Asset downloader
+- Game tracker with live stats
+- Profile lookup and friend checker
+- Avatar analyzer
+
+**Discord Tools**
+- 41 bot commands (moderation, fun stuff, utilities)
+- Webhook manager
+- Server lookup
+- User ID calculator
+
+**Trading**
+- Trade calculator
+- Limited item tracker
+- RAP checker
+
+**Other Features**
+- Analytics dashboard
+- Bulk import/export (JSON, CSV, TXT)
+- Multiple themes
+- Favorites system
+
+## Download
+
+Grab the latest release from the release page.
+
+Requires an activation key to use.
+
+## License
+
+MIT
