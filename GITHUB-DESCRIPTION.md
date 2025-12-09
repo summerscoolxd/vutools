@@ -146,7 +146,7 @@ VUTOOLS is built with security in mind:
 
 Join thousands of users:
 
-- 💬 [Discord Server](#) - Get support and share tips (https://discord.gg/wVBYvSkVgC)
+- 💬 [Discord Server](https://discord.gg/wVBYvSkVgC) - Get support and share tips 
 - ⭐ Star this repo if you find it useful!
 
 ---
@@ -196,5 +196,6 @@ VUTOOLS is a third-party tool and is not affiliated with Roblox Corporation or D
 
 
 </div>
+
 
 
