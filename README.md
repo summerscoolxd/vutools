@@ -129,7 +129,7 @@ Check out the full [Release Notes](RELEASE-NOTES-v2.0.0.md)
 
 [![Download Now](https://img.shields.io/badge/Download-vutools%20Setup%202.0.0.exe-00d9ff?style=for-the-badge&logo=windows)](../../releases)
 
-> **Note:** Activation key required. Contact developer for access.
+> **Note:** Activation key required. Pay for access.
 
 ---
 
@@ -195,5 +195,6 @@ VUTOOLS is a third-party tool and is not affiliated with Roblox Corporation or D
 ⭐ **Star this repo if you find it useful!** ⭐
 
 </div>
+
 
 
