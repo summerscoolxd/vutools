@@ -32,8 +32,6 @@ VUTOOLS is packed with robust functionality:
 • ✅ **Top performance in every test**  
 • ✅ **Legit with no hidden charges or risks**
 
-You're not just downloading a tool — you're joining a powerful movement of creators.
-
 ---
 
 ## How to Install
@@ -200,3 +198,4 @@ VUTOOLS is a third-party tool and is not affiliated with Roblox Corporation or D
 
 
 </div>
+
