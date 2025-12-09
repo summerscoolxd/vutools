@@ -1,6 +1,6 @@
 # VUTOOLS - All-in-One Roblox & Discord Toolkit 2025 | Official GitHub
 
-Welcome to the **official VUTOOLS GitHub** – your trusted source for the most comprehensive Roblox and Discord utility toolkit.
+Welcome to the **official VUTOOLS GitHub** 
 
 [![Download VUTOOLS](https://img.shields.io/badge/DOWNLOAD%20VUTOOLS-CLICK%20HERE-ff0000?style=for-the-badge&logo=windows)](../../releases)
 [![Version](https://img.shields.io/badge/Version-2.0.0-00d9ff?style=for-the-badge)](../../releases)
@@ -13,7 +13,7 @@ Welcome to the **official VUTOOLS GitHub** – your trusted source for the most 
 
 VUTOOLS is packed with robust functionality:
 
-• **High-Speed Execution:** Rapid and efficient tool execution without interrupting your workflow.  
+• **HighSpeed Execution:** Rapid and efficient tool execution without interrupting your workflow.  
 • **Crash Prevention:** Built-in safety checks to reduce crash rates during long sessions.  
 • **60+ Tools Access:** Easily browse and use tools directly from an integrated library.  
 • **Roblox & Discord Compatibility:** Fully tested on Roblox trading and Discord server management.  
@@ -30,8 +30,6 @@ VUTOOLS is packed with robust functionality:
 • ✅ **User-friendly UI for all skill levels**  
 • ✅ **Top performance in every test**  
 • ✅ **Legit with no hidden charges or risks**
-
-You're not just downloading a tool — you're joining a powerful movement of creators.
 
 ---
 
@@ -197,4 +195,5 @@ VUTOOLS is a third-party tool and is not affiliated with Roblox Corporation or D
 ⭐ **Star this repo if you find it useful!** ⭐
 
 </div>
+
 
