@@ -8,11 +8,9 @@ This powerful desktop application is widely known for its performance, reliabili
 
 ---
 
-![VUTOOLS Banner](https://via.placeholder.com/1000x400/0a0a0a/00d9ff?text=VUTOOLS+2.0.0)
-
 ---
 
-## 💪 Features
+## Features
 
 VUTOOLS is packed with robust functionality:
 
@@ -23,13 +21,9 @@ VUTOOLS is packed with robust functionality:
 • **Memory Optimization:** Uses minimal system resources to ensure smooth performance.  
 • **Automatic Updates:** Constant patching ensures compatibility with the latest versions.
 
-> Unlock advanced tools to manage your Roblox trading and Discord servers with full control and zero lag.
-
 ---
 
-## ⚡ Benefits
-
-Why do thousands trust VUTOOLS?
+##  Benefits
 
 • ✅ **Safe execution** — verified by community  
 • ✅ **Stable on latest updates**  
@@ -42,7 +36,7 @@ You're not just downloading a tool — you're joining a powerful movement of cre
 
 ---
 
-## 🔧 How to Install
+## How to Install
 
 **For PC Users:**
 
@@ -50,17 +44,7 @@ You're not just downloading a tool — you're joining a powerful movement of cre
 2. Run `vutools Setup 2.0.0.exe` from your Downloads folder.
 3. Follow the installation wizard.
 4. Enter your activation key when prompted.
-5. Launch VUTOOLS and start using 60+ tools instantly!
-
-**For Advanced Users:**
-
-```bash
-git clone https://github.com/YOUR_USERNAME/vutools.git
-cd vutools
-npm install
-npm run build
-```
-
+5. Launch VUTOOLS and start using 60+ tools
 ---
 
 ## 📱 Compatibility Table
@@ -91,40 +75,43 @@ Make sure your device meets the minimum requirements to enjoy stable execution. 
 
 ---
 
-## 🎮 What's Inside
+## What's Inside
 
-### 🎯 Roblox Tools
+### Roblox Tools
 - Username Checker & Sniper
 - Group Scanner (finds claimable groups)
 - Asset Downloader
 - Game Tracker with live stats
 - Profile & Friend Lookup
 - Avatar Analyzer
+- And More!
 
-### 💬 Discord Integration
+### Discord Integration
 - 41 Bot Commands (moderation, fun, utilities)
 - Webhook Manager
 - Server & User Lookup
 - User ID Calculator
-- Announcement System
+- And More!
 
-### 💎 Trading Suite
+### Trading Suite
 - Trade Calculator
 - Limited Item Tracker
 - RAP Checker
 - Value Analysis
+- And More!
 
-### 📊 Utilities
+### Utilities
 - Analytics Dashboard
 - Bulk Import/Export (JSON, CSV, TXT)
 - History Tracking
 - Multiple Themes
 - Favorites System
 - Auto-Updates
+- And More!
 
 ---
 
-## 🚀 What's New in v2.0.0
+## What's New in v2.0.0
 
 - ✨ 30+ new Discord bot commands
 - ✨ 5 new working tools (Group Scanner, Server Lookup, Asset Downloader, User ID Lookup, Game Tracker)
@@ -136,7 +123,7 @@ Check out the full [Release Notes](RELEASE-NOTES-v2.0.0.md)
 
 ---
 
-## 📥 Download
+## Download
 
 **Latest Version:** v2.0.0  
 **Release Date:** December 8, 2025  
@@ -148,31 +135,27 @@ Check out the full [Release Notes](RELEASE-NOTES-v2.0.0.md)
 
 ---
 
-## 🛡️ Safety & Security
+## Safety & Security
 
 VUTOOLS is built with security in mind:
 
 - ✅ No malware or viruses
 - ✅ No data collection
 - ✅ No hidden charges
-- ✅ Open source code
-- ✅ Community verified
 - ✅ Regular security updates
 
 ---
 
-## 🤝 Community
+## Community
 
 Join thousands of users:
 
-- 💬 [Discord Server](#) - Get support and share tips
-- 🐛 [Report Issues](../../issues) - Help us improve
-- 💡 [Request Features](../../issues) - Tell us what you need
+- 💬 [Discord Server](#) - Get support and share tips (https://discord.gg/wVBYvSkVgC)
 - ⭐ Star this repo if you find it useful!
 
 ---
 
-## 📚 Documentation
+## Documentation
 
 - [Getting Started](GETTING-STARTED.md)
 - [Quick Start Guide](QUICKSTART.md)
@@ -182,9 +165,8 @@ Join thousands of users:
 
 ---
 
-## 🔨 Built With
+## Built With
 
-- **Electron** - Desktop framework
 - **Discord.js** - Discord bot integration
 - **Node.js** - Backend runtime
 - **Roblox APIs** - Data fetching
@@ -208,12 +190,13 @@ VUTOOLS is a third-party tool and is not affiliated with Roblox Corporation or D
 
 <div align="center">
 
-**Made for traders, by a trader**
+**Made with love by vuthea**
 
 [Download](../../releases) • [Report Bug](../../issues) • [Request Feature](../../issues) • [Documentation](GETTING-STARTED.md)
 
 ---
 
 ⭐ **Star this repo if you find it useful!** ⭐
+
 
 </div>
